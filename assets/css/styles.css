@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(205, 168, 174);
+    font-family: 'Roboto', sans-serif;
+}
+
+header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    font-weight: 600;
+}
+section {
+    display: flex;
+    justify-content: center;
+    justify-content: space-evenly;
+
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #7c3c9b;
+    border-color: #912d94;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #7c3c9b;
+    border-color: #912d94;
+}
